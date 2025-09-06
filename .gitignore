@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Ignore Python installed files (if inside project)
+Lib/
+Scripts/
+include/
+Python311/
+libs/
+DLLS/
+screenshot/
