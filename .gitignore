@@ -1,6 +1,8 @@
 # Ignore everything
 *
 
-# But NOT these:
+# But don't ignore this specific file
+!mr.stylist.py
+
+# Also don't ignore .gitignore itself (so it's tracked too)
 !.gitignore
-!*.py
