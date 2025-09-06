@@ -1,1 +1,1 @@
-file conntains source code mr.stylist python project
+file contains source code mr.stylist python project
